@@ -1,4 +1,4 @@
-## Clan of Code
+# Clan of Code
 ### Screenshots of finished webapp
 <p align="center">
 <img src="https://raw.githubusercontent.com/Ollie-Boyd/Clan-of-Code-RPG-Browser-Game/master/screenshots/download.gif" width=50% height=auto%>
@@ -24,9 +24,13 @@
 * Have animated fight sequences
 * Have sound effects
 
+# Planning
 
+# SCRUM
 
+# What I learned along the way
 
+# What I would do differently
 
 ## To run
 
