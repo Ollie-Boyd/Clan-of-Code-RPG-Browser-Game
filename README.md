@@ -5,7 +5,7 @@
  <img src="https://raw.githubusercontent.com/Ollie-Boyd/Clan-of-Code-RPG-Browser-Game/master/screenshots/Clan_of_Code.png" width=80% height=auto%>
 </p>
 
-# Brief
+## Brief
 
 >Create a browser game based on an existing card or dice game. Model and test the game logic and then display it in the browser for a user to interact with.
 >
@@ -24,13 +24,13 @@
 * Have animated fight sequences
 * Have sound effects
 
-# Planning
+## Planning
 
-# SCRUM
+## SCRUM
 
-# What I learned along the way
+## What I learned along the way
 
-# What I would do differently
+## What I would do differently
 
 ## To run
 
