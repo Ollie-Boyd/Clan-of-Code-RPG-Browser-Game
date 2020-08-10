@@ -28,7 +28,30 @@
 
 
 
-###Folder structure
+## To run
+
+### /client/
+
+```
+npm install
+```
+```
+npm run serve
+```
+
+### /server/
+
+```
+npm install
+```
+```
+npm run seeds
+```
+```
+npm run server:dev
+```
+
+### Folder structure
 
 * client/ - the frontend vue web application
 * server/ - the backend mongodb part that serves an API
