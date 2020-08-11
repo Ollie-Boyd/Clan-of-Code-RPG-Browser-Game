@@ -25,6 +25,9 @@
 * Have sound effects
 
 ## Planning
+* A couple of the team were very keen that we do a game (other briefs were available) so they had some initial ideas about features they would like to try. We made a Trello board and brainstormed ideas. It was important to limit scope as we hadn't worked in a group before and weren't sure how much work we could output. 
+* On Trello we split the ideas into MVP and extensions that could be built onto the MVP. 
+
 
 ## SCRUM
 
