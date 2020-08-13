@@ -5,6 +5,10 @@
  <img src="https://raw.githubusercontent.com/Ollie-Boyd/Clan-of-Code-RPG-Browser-Game/master/screenshots/Clan_of_Code.png" width=80% height=auto%>
 </p>
 
+## A note on these docs
+
+I try and write the docs for my personal learning projects in an informal way that discusses my thought processes and personal learning points. Of course I appreciate that this isn't an appropriate style for production documentation! I find it valuble for my own benefit to reflect and document in this manner and maybe it's slightly interesting to see how tasks are approached. If you would like any information on anything      
+
 ## Brief
 
 >Create a browser game based on an existing card or dice game. Model and test the game logic and then display it in the browser for a user to interact with.
@@ -25,8 +29,10 @@
 * Have sound effects
 
 ## Planning
-* A couple of the team were very keen that we do a game (other briefs were available) so they had some initial ideas about features they would like to try. We made a Trello board and brainstormed ideas. It was important to limit scope as we hadn't worked in a group before and weren't sure how much work we could output. 
-* On Trello we split the ideas into MVP and extensions that could be built onto the MVP. 
+* A couple of the team were very keen that we do a game (other briefs were available) so they had some initial ideas about features they would like to try. Although an RPG game wasn't my natural first choice, I was encouraged by the enthusiasm of my other team members and was on-board. We made a Trello board and brainstormed ideas. It was important to limit scope as we hadn't worked in a group before and weren't sure how much work we could output. 
+* On Trello we split the ideas into MVP, and extensions that could be built ontop of the MVP. 
+* We all make a wireframe and merged our respective ideas into something somewhat resembling the final project.
+* Once the wireframe was done it was time to plan the database. Ed and I got to work with a prototype of the DB structure but we weren't clear on exactly how the branching nature of the dialogue would be best achieved (with some 'chapters' triggering fight scenes, and items) but after sleeping on it I was able to modify Ed's initial MongoDB object structure
 
 
 ## SCRUM
