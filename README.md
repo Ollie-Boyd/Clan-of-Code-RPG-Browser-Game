@@ -35,13 +35,16 @@ I try and write the docs for my personal learning projects in an informal way th
 * Once the wireframe was done it was time to plan the database. Ed and I got to work with a prototype of the DB structure but we weren't clear on exactly how the branching nature of the dialogue would be best achieved (with some 'chapters' triggering fight scenes, and items) but after sleeping on it I was able to modify Ed's initial MongoDB object structure and allow for narrative branching options to be contained within the DB. 
 
 ## What I learned along the way
-###Sharing knowledge
+### Sharing knowledge
 To be a good team member sometimes you just need to help your team mates by paired programming. I was quite confident with Vue and JavaScript as I had been practicing a lot outside the course but not everyone on the team was so comfortable. I had to learn that it was ok to just chill and help someone by pair programming without worrying about the lack of code-output that having a team-member tied to a partner might cause. Sharing knowledge felt good and it meant towards the end we were much better able to work independently. 
 
-###How to create an XYZ tile-server with an image. 
+### How to create an XYZ tile-server with an image. 
 I found a cool Python script that allowed me to use the pixels of the image as Lat/Lon coordinates so mapping software like Leaflet.js can display them, pan to coordinates, zoom etc.
+
 first install python-gdal https://medium.com/@vascofernandes_13322/how-to-install-gdal-on-macos-6a76fb5e24a4
+
 then create an XYZ tile-server from your image https://github.com/commenthol/gdal2tiles-leaflet
+
 finally install the Leaflet.js plugin Raster Coords https://github.com/commenthol/leaflet-rastercoords
 
 ## What I would do differently
